@@ -1,0 +1,8 @@
+D:\2 DS Artur e Caio\Calistenia-Calculadora\obj\Debug\net7.0\Calistenia-Calculadora.csproj.AssemblyReference.cache
+D:\2 DS Artur e Caio\Calistenia-Calculadora\obj\Debug\net7.0\Calistenia-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 DS Artur e Caio\Calistenia-Calculadora\obj\Debug\net7.0\Calistenia-Calculadora.AssemblyInfoInputs.cache
+D:\2 DS Artur e Caio\Calistenia-Calculadora\obj\Debug\net7.0\Calistenia-Calculadora.AssemblyInfo.cs
+D:\2 DS Artur e Caio\Calistenia-Calculadora\obj\Debug\net7.0\Calistenia-Calculadora.csproj.CoreCompileInputs.cache
+D:\2 DS Artur e Caio\Calistenia-Calculadora\obj\Debug\net7.0\Calistenia-Calculadora.MvcApplicationPartsAssemblyInfo.cache
+D:\2 DS Artur e Caio\Calistenia-Calculadora\obj\Debug\net7.0\Calistenia-Calculadora.RazorAssemblyInfo.cache
+D:\2 DS Artur e Caio\Calistenia-Calculadora\obj\Debug\net7.0\Calistenia-Calculadora.RazorAssemblyInfo.cs

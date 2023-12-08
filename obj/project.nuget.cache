@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XzYOYE+pZfrESThV1bAzX5UCBpIsXb9iiE366p5OR1SQOf2VX5A2G6kh1IRN0A1tfzn9KxrqwE1mKoG5cL8rQ==",
+  "success": true,
+  "projectFilePath": "D:\\2 DS Artur e Caio\\Calistenia-Calculadora\\Calistenia-Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.13\\microsoft.aspnetcore.jsonpatch.7.0.13.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.13\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.13.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
